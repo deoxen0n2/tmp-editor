@@ -1,0 +1,31 @@
+{
+  "name": "tmp-editor",
+  "version": "0.1.0",
+  "description": "Edit temp file and get string when finish editing",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/deoxen0n2/tmp-editor.git"
+  },
+  "keywords": [
+    "tmp",
+    "editor",
+    "string"
+  ],
+  "author": "Saran Siriphantnon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deoxen0n2/tmp-editor/issues"
+  },
+  "homepage": "https://github.com/deoxen0n2/tmp-editor#readme",
+  "dependencies": {
+    "editor": "^1.0.0",
+    "tmp": "0.0.28"
+  },
+  "devDependencies": {
+    "standard": "^5.3.1"
+  }
+}
